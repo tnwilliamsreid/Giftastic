@@ -1,0 +1,48 @@
+#header {
+	background-color: black;
+	color: #c9c6c6;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#topImageL {
+	width: 15%;
+	float: left;
+	margin-left: 22px;
+}
+
+#topImageR {
+	width: 20%;
+	float: right;
+	margin-right: 22px;
+}
+
+label {
+	font-size: 20px;
+}
+
+#topics {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#theSearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+._Giphy {
+	padding: 3px;
+	width: 60%;
+}
